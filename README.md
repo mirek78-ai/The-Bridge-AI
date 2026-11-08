@@ -52,3 +52,14 @@ This MVP is intentionally dependency-free. A future enterprise version can add i
 ## Core commitment
 
 > AI can act. Humans remain accountable. Critical outcomes remain secure and resilient.
+
+## Public showcase: Governed AI-Ready Data Center Fabric
+
+Explore the new public enterprise-architecture microsite, white-paper web edition, printable lifecycle one-pager, and NotebookLM infographic brief:
+
+- [AI-Ready Data Center Fabric showcase](ai-ready-data-center/)
+- [Public white paper](ai-ready-data-center/whitepaper.html)
+- [Printable framework one-pager](ai-ready-data-center/one-pager.html)
+- [Infographic creation brief](ai-ready-data-center/NOTEBOOKLM_PROMPT.md)
+
+This is an independent, high-level, customer-safe framework. It does not expose private delivery playbooks or claim Cisco endorsement.
